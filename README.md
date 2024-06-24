@@ -1,4 +1,5 @@
 # Together-AI-
+
 Our decentralized cloud services empower developers and researchers at organizations of all sizes to train, fine-tune, and deploy generative AI models.
 
 ### Together AI website / API / Blog 
